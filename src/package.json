@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "google-libphonenumber": "^2.0.15",
-    "ngx-bootstrap": "^1.6.6"
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-alpha.26"
   }
 }
